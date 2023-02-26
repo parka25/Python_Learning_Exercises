@@ -1,2 +1,3 @@
-# Project_Folders
-Somw of my works I have done in the past years
+# Python Learning Exercises
+
+This repository contains some of my python learning exercises using 
