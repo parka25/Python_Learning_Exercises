@@ -2,7 +2,7 @@
 
 This repository contains some of my python learning exercises using Jupyter notebook. Some of the methods that I used could be categorized into a few categories
  
-## Table of Content/Functions
+## Functions Used
 1. Input/Output
     * 1. input()
     * 2. print()
